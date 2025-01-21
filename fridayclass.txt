@@ -1,1 +1,3 @@
-today is friday
+today is Friday
+
+new lines added
