@@ -1,0 +1,29 @@
+commit 47e080c491ae87bb88d02583e179525481c65195
+Author: HamzaAlmarr1 <hma5247@g.rit.edu>
+Date:   Tue Jan 21 11:31:01 2025 +0400
+
+    new lines added
+
+commit 589307dd626bb042833361ec654ab6c28ab2b8fb
+Author: HamzaAlmarr1 <hma5247@g.rit.edu>
+Date:   Tue Jan 21 11:29:55 2025 +0400
+
+    friday2
+
+commit e900923cb9fdf7191a43757be002da1806d854d2
+Author: HamzaAlmarr1 <hma5247@g.rit.edu>
+Date:   Tue Jan 21 11:28:09 2025 +0400
+
+    friday is added
+
+commit 61d1dff7572f653e0b35e9f673f8fd1f6959a27a
+Author: HamzaAlmarr1 <hma5247@g.rit.edu>
+Date:   Tue Jan 21 10:02:48 2025 +0400
+
+    added line 'I like football'
+
+commit 34afb096754ea5abb05b4520dc2cc745e5541e35
+Author: HamzaAlmarr1 <hma5247@g.rit.edu>
+Date:   Tue Jan 21 09:55:05 2025 +0400
+
+    stuff
